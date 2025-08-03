@@ -1,0 +1,74 @@
+<h1 align="center">IG-HACKSS v1.0</h1>
+<p align="center">
+      A new automated script for Instagram Account hacking from bruteforce
+</p>
+
+## 🔍 ***About IG-HACKS***:
+
+igHACKS is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.
+
+
+
+![img_termux](./readme/img_termux.jpg)
+
+
+### 📌 ***IG-HACKS is available for***:
+
+* Termux
+
+### 📌 ***Installation and usage guide***:
+```
+$ apt-get update -y
+```
+```
+$ apt-get upgrade -y
+```
+```
+$ pkg install python -y 
+```
+```
+$ pkg install python2.7 -y
+```
+```
+$ pkg install git -y
+```
+```
+$ pip install lolcat
+```
+```
+$ git clone https://github.com/edulifetechhacks/ighacks
+```
+```
+$ ls
+```
+```
+$ cd ighacks
+```
+```
+$ ls
+```
+```
+$ bash setup
+```
+```
+$ bash ighacks.sh
+```
+
+* You can select any option by clicking on your keyboard
+
+* Note:- Don't delete any of the scripts included in core files
+
+* Open new session and start TOR (tor) before starting the attack
+
+
+## 📌 ***Full video on youtube, subscribe to check it out***:
+
+https://www.youtube.com/@EDULIFETECHHACKS(will upload video in afew)
+
+
+### Subscribe our channel on youtube:
+https://www.youtube.com/@EDULIFETECHHACKS
+
+### 📢 Warning
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
