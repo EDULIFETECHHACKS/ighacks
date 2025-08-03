@@ -5,8 +5,7 @@
 
 ## 🔍 ***About IG-HACKS***:
 
-igHACKS is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.
-
+wish to hack instagram accounts here is a good solution for you,using termux.
 
 
 ![img_termux](./readme/img_termux.jpg)
