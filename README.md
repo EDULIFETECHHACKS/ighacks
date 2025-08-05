@@ -17,10 +17,10 @@ wish to hack instagram accounts here is a good solution for you,using termux.
 
 ### 📌 ***Installation and usage guide***:
 ```
-$ apt-get update -y
+$ apt update -y
 ```
 ```
-$ apt-get upgrade -y
+$ apt upgrade -y
 ```
 ```
 $ pkg install python -y 
