@@ -14,6 +14,7 @@ pip install --upgrade pip
 pip3 install requests --upgrade
 pip3 install requests[socks]
 pip3 install stem
+cd $HOME/ighacks
 pip3 install instagram-py
 cd $HOME
 wget -O ~/instapy-config.json "https://git.io/v5DGy"
