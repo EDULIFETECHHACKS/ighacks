@@ -8,7 +8,7 @@
 wish to hack instagram accounts here is a good solution for you,using termux.
 
 
-![img_termux](./readme/img_termux.jpg)
+![img_termux](./readme/img_termux.png)
 
 
 ### 📌 ***IG-HACKS is available for***:
@@ -35,7 +35,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/edulifetechhacks/ighacks
+$ git clone https://github.com/edulifetechhacks/ighacks.git
 ```
 ```
 $ ls
