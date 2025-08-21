@@ -8,7 +8,7 @@
 wish to hack instagram accounts here is a good solution for you,using termux.
 
 
-![img_termux](./readme/img_termux.png)
+![img termux](./readme/img_termux.png)
 
 
 ### 📌 ***IG-HACKS is available for***:
