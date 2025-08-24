@@ -17,40 +17,40 @@ wish to hack instagram accounts here is a good solution for you,using termux.
 
 ### 📌 ***Installation and usage guide***:
 ```
-$ apt update -y
+apt update -y
 ```
 ```
-$ apt upgrade -y
+apt upgrade -y
 ```
 ```
-$ pkg install python -y 
+pkg install python -y 
 ```
 ```
-$ pkg install python2 -y
+pkg install python2 -y
 ```
 ```
-$ pkg install git -y
+pkg install git -y
 ```
 ```
-$ pip install lolcat
+pip install lolcat
 ```
 ```
-$ git clone https://github.com/edulifetechhacks/ighacks.git
+git clone https://github.com/edulifetechhacks/ighacks.git
 ```
 ```
-$ ls
+ls
 ```
 ```
-$ cd ighacks
+cd ighacks
 ```
 ```
-$ ls
+ls
 ```
 ```
-$ bash setup
+bash setup
 ```
 ```
-$ bash ighacks.sh
+bash ighacks.sh
 ```
 
 * You can select any option by clicking on your keyboard
